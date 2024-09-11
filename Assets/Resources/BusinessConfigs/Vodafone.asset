@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4dcb049777a8cc54e82f6c63c07253bc, type: 3}
+  m_Name: Vodafone
+  m_EditorClassIdentifier: 
+  BusinessName: Vodafone
+  businessLogo: {fileID: 21300000, guid: 669593079934da34d876f74bffd874e4, type: 3}
+  BusinessPrice: 2800
+  BusinessId: 5
+  ImprovingCost: 1500
+  Outcomes: f0000000b0040000100e0000342100000a280000e02e0000
